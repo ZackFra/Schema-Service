@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "schema-service",
+      "default": true
+    }
+  ],
+  "name": "Schema Service",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0"
+}
